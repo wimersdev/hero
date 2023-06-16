@@ -7,7 +7,6 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 
 const clock = new THREE.Clock();
 
-//Add a new scene
 const scene = new THREE.Scene();
 const meshGroup = new THREE.Group();
 scene.add(meshGroup);
